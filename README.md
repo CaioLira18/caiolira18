@@ -3,6 +3,7 @@
 - 💻 Aluno do Next 2023 (Cesar School)
 - 🧑‍💻 Aprendendo Java
 - 🖥️ Aprendendo Python
+- 🧑‍🎓 Graduação em Ciência da Computação
   
 
 
