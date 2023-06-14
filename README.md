@@ -1,4 +1,4 @@
-### Ola, Me Chamo Caio , Estudante de Programação e Fazendo Graduação em Ciência da Computação👋
+### Ola, Me Chamo Caio , Sou Estudante de Programação e Estou Cursando Ciência da Computação👋
 
 - 💻 Aluno do Next 2023 (Cesar School)
 - 🧑‍💻 Aprendendo Java
