@@ -23,13 +23,11 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 ## Status
 
-<a href="https://github.com/Gurupreet">
+ <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioLira18&theme=dracula&hide_langs_below=1" />
-</a>
+</a> 
 
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=CaioLira18&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
-</a>
+
 
 [website]: https://codedev.ga/
 [twitter]: https://twitter.com/SEUTWITTER
