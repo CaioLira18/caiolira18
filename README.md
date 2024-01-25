@@ -1,8 +1,8 @@
 # Ola Parceiros Programadores 👋
 
-Apaixonado por codificação! 
-Transformando linhas de código em soluções incríveis!
-Explorando o universo da tecnologia e aprendendo algo novo a cada dia!
+- Apaixonado por codificação! 
+- Transformando linhas de código em soluções incríveis!
+- Explorando o universo da tecnologia e aprendendo algo novo a cada dia!
 
 ## Mais sobre mim
 
@@ -31,9 +31,9 @@ Explorando o universo da tecnologia e aprendendo algo novo a cada dia!
 
 ## Objetivos
 
-🚀 Explorar novas tecnologias e frameworks.
-📈 Colaborar em projetos capazes de realizar mudanças
-👩‍💻 Inspirar e ser inspirado pela comunidade de desenvolvedores.
+- 🚀 Explorar novas tecnologias e frameworks.
+- 📈 Colaborar em projetos capazes de realizar mudanças
+- 👩‍💻 Inspirar e ser inspirado pela comunidade de desenvolvedores.
 
 
 
