@@ -36,8 +36,8 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 ## Rede sociais
 
-**🏡 [Website][website] **
-**🐦 [Twitter][twitter] **
+<!--🏡 [Website][website]  --> 
+<!--🐦 [Twitter][twitter]  --> 
 <!-- 📺 [Youtube][youtube] --> 
 📷 [Instagram] https://www.instagram.com/caiolira_fl16/
 👔 [LinkedIn]  https://www.linkedin.com/in/caio-ferreira-32b330205/
