@@ -29,8 +29,8 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 
 
-[website]: https://codedev.ga/
-[twitter]: https://twitter.com/SEUTWITTER
+
+<code><img height="30" src="[https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo-0.pn](https://www.al.al.leg.br/imagens/Twitterlogo.png/image)g"></code> https://twitter.com/SEUTWITTER
 [youtube]: https://www.youtube.com/user/SEUYOUTUBE/
 [instagram]: https://www.instagram.com/SEUINSTAGRAM/
 [linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
