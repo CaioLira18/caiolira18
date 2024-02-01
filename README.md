@@ -29,7 +29,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioLira18&theme=dracula&hide_langs_below=1" />
 </a> 
 <a href="">
-  <img align="center" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)" />
+  <img align="center" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioLira18&theme=dark&show_icons=true)" />
 </a> 
 
 
