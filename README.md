@@ -10,7 +10,7 @@
 - Python and Django student
 - Web Development Student: Html, CSS and JS (Front-End)
 
-<code><img height="100" weight="200" src="https://usa.bootcampcdn.com/wp-content/uploads/sites/108/2021/03/CDG_blog_post_image_05-1-850x412.jpg"></code>
+<code><img src="https://usa.bootcampcdn.com/wp-content/uploads/sites/108/2021/03/CDG_blog_post_image_05-1-850x412.jpg"></code>
 
 
 ## Languages and tools
