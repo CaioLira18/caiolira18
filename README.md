@@ -12,7 +12,7 @@
 - Python and Django student
 - Web Development Student: Html, CSS and JS (Front-End)
 
-<code><img height="30" weight="30" src="https://i.pinimg.com/originals/08/fb/61/08fb615b1a389de5bc0410136d75f50d.gif"></code>
+<code><img height="100" weight="100" src="https://i.pinimg.com/originals/08/fb/61/08fb615b1a389de5bc0410136d75f50d.gif"></code>
 
 
 ## Languages and tools
