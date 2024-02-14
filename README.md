@@ -1,19 +1,18 @@
-# Ola Parceiros Programadores 👋
+# Hello Programmer Partners 👋
 
-- Apaixonado por codificação! 
-- Transformando linhas de código em soluções incríveis!
-- Explorando o universo da tecnologia e aprendendo algo novo a cada dia!
+- Passionate about coding!
+- Transforming lines of code into incredible solutions!
+- Exploring the universe of technology and learning something new every day!
 
-## Mais sobre mim
+## More about me
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-- Bacharelado em Ciência da Computação (Cesar School)
-- Estudante de Python e Django
-- Estudante de Desenvolvimento Web: Html, CSS e JS (Front-End)
+- Computer Science (Cesar School)
+- Python and Django student
+- Web Development Student: Html, CSS and JS (Front-End)
 
-## Linguagens e ferramentas
-
+## Languages and tools
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -34,11 +33,11 @@
 </a> 
 
 
-## Objetivos
+## Goals
 
-- 🚀 Explorar novas tecnologias e frameworks.
-- 📈 Colaborar em projetos capazes de realizar mudanças
-- 👩‍💻 Inspirar e ser inspirado pela comunidade de desenvolvedores.
+- 🚀 Explore new technologies and frameworks.
+- 📈 Collaborate on projects capable of making changes
+- 👩‍💻 Inspire and be inspired by the developer community.
 
 
 
