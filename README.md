@@ -6,7 +6,7 @@
 
 ## More about me
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img align="right" width="300" src="[https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1](https://img.freepik.com/fotos-gratis/plano-de-fundo-de-programacao-com-pessoa-trabalhando-com-codigos-no-computador_23-2150010125.jpg?size=626&ext=jpg&ga=GA1.1.87170709.1707696000&semt=sph)" />
 
 - Computer Science (Cesar School)
 - Python and Django student
