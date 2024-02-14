@@ -6,13 +6,11 @@
 
 ## More about me
 
-<img align="right" width="300" src="https://usa.bootcampcdn.com/wp-content/uploads/sites/108/2021/03/CDG_blog_post_image_05-1-850x412.jpg" />
-
 - Computer Science (Cesar School)
 - Python and Django student
 - Web Development Student: Html, CSS and JS (Front-End)
 
-<code><img height="100" weight="200" src=""></code>
+<code><img height="100" weight="200" src="https://usa.bootcampcdn.com/wp-content/uploads/sites/108/2021/03/CDG_blog_post_image_05-1-850x412.jpg"></code>
 
 
 ## Languages and tools
