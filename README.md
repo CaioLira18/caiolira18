@@ -44,7 +44,7 @@
 
 <br>
 
-## Rede sociais
+## Social Media 
 
 <!--🏡 [Website][website]  --> 
 <!--🐦 [Twitter][twitter]  --> 
