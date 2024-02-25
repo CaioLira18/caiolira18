@@ -7,7 +7,7 @@
 ## More about me
 
 - Computer Science (Cesar School)
-- Python and Django student
+- Python and Django Student (Udemy)
 - Web Development Student: Html, CSS and JS (Front-End)
 
 <code><img src="https://usa.bootcampcdn.com/wp-content/uploads/sites/108/2021/03/CDG_blog_post_image_05-1-850x412.jpg"></code>
