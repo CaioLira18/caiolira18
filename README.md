@@ -8,7 +8,7 @@
 
 - Computer Science (Cesar School)
 - Python and Django Student (Udemy)
-- Web Development Student: Html, CSS and JS (Front-End)
+- Web Development Student: HTML, CSS, JS, Node.js and React (Front-End)
 
 
 ## Languages and tools
