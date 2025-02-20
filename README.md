@@ -22,7 +22,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://inspector.dev/wp-content/uploads/2023/04/logo-python-django.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/8f19e7f2d1a0b1a33d0d5034c62d7637b173b0a3/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/8f19e7f2d1a0b1a33d0d5034c62d7637b173b0a3/topics/react/react.png"></code>
+<code><img height="30" src="[https://raw.githubusercontent.com/github/explore/8f19e7f2d1a0b1a33d0d5034c62d7637b173b0a3/topics/react/react.png](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png)"></code>
 
 
 ## Status
