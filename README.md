@@ -1,15 +1,19 @@
-👋 Hello, Programmer Partners!
+# 👋 Hello, Programmer Partners!
+
 💻 Passionate about coding and turning ideas into incredible digital solutions.
 🚀 Always exploring the tech universe and learning something new every day!
 
-- 👨‍💻 About Me
+## 👨‍💻 About Me
+
 - 🎓 Computer Science student at Cesar School
-
 - 🐍 Python & Django enthusiast (currently learning via Udemy)
-
 - 🌐 Web Development learner: HTML, CSS, JavaScript, Node.js & React
+- 🚀 Keep exploring new technologies and frameworks
+- 🤝 Collaborate on meaningful, impactful projects
+- 🌟 Inspire and be inspired by the developer community
 
-## 🛠️ Languages & Tools
+## 🛠️ Linguagens & Ferramentas
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="30" height="30" style="object-fit: contain;"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" width="30" height="30" style="object-fit: contain;"/>
@@ -22,14 +26,15 @@
 </p>
 
 ## 📊 GitHub Stats
-<a href="https://github.com/CaioLira18"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioLira18&layout=compact&theme=dracula"/> </a> <a href="https://github.com/CaioLira18"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=CaioLira18&show_icons=true&theme=dracula"/> </a>
 
-- 🎯 Goals
-- 🚀 Keep exploring new technologies and frameworks
-- 🤝 Collaborate on meaningful, impactful projects
-- 🌟 Inspire and be inspired by the developer community
+<a href="https://github.com/CaioLira18"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioLira18&layout=compact&theme=dracula"/> 
+</a> 
+<a href="https://github.com/CaioLira18"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CaioLira18&show_icons=true&theme=dracula"/> 
+</a>
 
+## 🌐 Connect with Me
 
-🌐 Connect with Me
-📸 Instagram
-💼 LinkedIn
+- 📸 Instagram
+- 💼 LinkedIn
