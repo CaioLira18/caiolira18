@@ -12,7 +12,7 @@
 - 🤝 Collaborate on meaningful, impactful projects
 - 🌟 Inspire and be inspired by the developer community
 
-## 🛠️ Linguagens & Ferramentas
+## 🛠️ Tools and Frameworks
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="30" height="30" style="object-fit: contain;"/>
