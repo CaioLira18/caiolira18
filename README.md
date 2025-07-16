@@ -20,7 +20,6 @@
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" width="30" height="30" style="object-fit: contain;"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" width="30" height="30" style="object-fit: contain;"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" width="30" height="30" style="object-fit: contain;"/>
-  <img src="https://inspector.dev/wp-content/uploads/2023/04/logo-python-django.png" alt="Django" width="30" height="30" style="object-fit: contain;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="Node.js" width="30" height="30" style="object-fit: contain;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React" width="30" height="30" style="object-fit: contain;"/>
 </p>
