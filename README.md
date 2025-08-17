@@ -24,14 +24,27 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React" width="30" height="30" style="object-fit: contain;"/>
 </p>
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
-<a href="https://github.com/CaioLira18"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioLira18&layout=compact&theme=dracula"/> 
-</a> 
-<a href="https://github.com/CaioLira18"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CaioLira18&show_icons=true&theme=dracula"/> 
-</a>
+<p align="center">
+  <a href="https://github.com/CaioLira18">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioLira18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioLira18&layout=compact&langs_count=8&theme=dracula"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/CaioLira18">
+    <img height="180em" src="https://streak-stats.demolab.com/?user=CaioLira18&theme=dracula&hide_border=true"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/CaioLira18">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaioLira18&theme=dracula"/>
+  </a>
+</p>
+
 
 ## 🌐 Connect with Me
 
