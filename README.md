@@ -1,28 +1,36 @@
-# 👋 Hello, Programmer Partners!
+# 👋 Hey there, Developer Community!  
 
-💻 Passionate about coding and turning ideas into incredible digital solutions.
-🚀 Always exploring the tech universe and learning something new every day!
+💻 Passionate about transforming ideas into digital solutions.  
+🚀 Constantly exploring the tech universe and learning something new every day.  
 
-## 👨‍💻 About Me
+---
 
-- 🎓 Computer Science student at Cesar School
-- 🐍 Python & Django enthusiast (currently learning via Udemy)
-- 🌐 Web Development learner: HTML, CSS, JavaScript, Node.js & React
-- 🚀 Keep exploring new technologies and frameworks
-- 🤝 Collaborate on meaningful, impactful projects
-- 🌟 Inspire and be inspired by the developer community
+## 👨‍💻 About Me  
 
-## 🛠️ Tools and Frameworks
+- 🎓 Computer Science student at **Cesar School**  
+- 🐍 Python & Django enthusiast (currently learning via Udemy)  
+- 🌐 Exploring Web Development: **HTML, CSS, JavaScript, Node.js & React**  
+- 🚀 Always experimenting with new technologies and frameworks  
+- 🤝 Open to collaboration on impactful projects  
+- 🌟 Inspired by and contributing to the developer community  
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="30" height="30" style="object-fit: contain;"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" width="30" height="30" style="object-fit: contain;"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" width="30" height="30" style="object-fit: contain;"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" width="30" height="30" style="object-fit: contain;"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" width="30" height="30" style="object-fit: contain;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="Node.js" width="30" height="30" style="object-fit: contain;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React" width="30" height="30" style="object-fit: contain;"/>
-</p>
+---
+
+## 🛠️ Tech Stack & Tools  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+</p>  
+
+---
 
 ## 📊 GitHub Stats  
 
@@ -45,8 +53,18 @@
   </a>
 </p>
 
+---
 
-## 🌐 Connect with Me
+## 🌐 Connect with Me  
 
-- 📸 Instagram
-- 💼 LinkedIn
+<p align="center">
+  <a href="https://www.linkedin.com/in/caio-ferreira-32b330205/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/caiolira_fl16/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:caiozao1212@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
