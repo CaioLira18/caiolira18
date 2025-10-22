@@ -8,7 +8,6 @@
 ## 👨‍💻 About Me  
 
 - 🎓 Computer Science student at **Cesar School**  
-- 🐍 Python & Django enthusiast (currently learning via Udemy)  
 - 🌐 Exploring Web Development: **HTML, CSS, JavaScript, Node.js & React**  
 - 🚀 Always experimenting with new technologies and frameworks  
 - 🤝 Open to collaboration on impactful projects  
