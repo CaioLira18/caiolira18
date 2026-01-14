@@ -1,17 +1,16 @@
 # 👋 Hey there, Developer Community!  
 
-💻 Passionate about transforming ideas into digital solutions.  
-🚀 Constantly exploring the tech universe and learning something new every day.  
-
 ---
 
 ## 👨‍💻 About Me  
 
-- 🎓 Computer Science student at **Cesar School**  
-- 🌐 Exploring Web Development: **HTML, CSS, JavaScript, Node.js & React**  
-- 🚀 Always experimenting with new technologies and frameworks  
-- 🤝 Open to collaboration on impactful projects  
-- 🌟 Inspired by and contributing to the developer community  
+👋 Olá! Me chamo Caio Ferreira, tenho 20 anos e sou estudante de Ciência da Computação na CESAR School. Antes de ingressar na área de Tecnologia da Informação, estudei Design por quatro anos, experiência que contribuiu para o meu olhar criativo e foco em usabilidade.
+
+Em 2024, decidi migrar definitivamente para a área de TI e tive meu primeiro contato com a programação — foi quando percebi que havia encontrado minha verdadeira paixão. Desde então, venho me dedicando ao desenvolvimento Full Stack, onde encontro motivação em transformar ideias em soluções funcionais por meio do código.
+
+Durante a graduação, busco aprofundar meus conhecimentos em front-end e back-end, além de bancos de dados e requisições web, sempre com foco em criar sistemas eficientes, escaláveis e bem estruturados. Sou movido por desafios, aprendizado contínuo e inovação.
+
+Meu objetivo é participar de projetos práticos, hackathons e iniciativas que gerem impacto real, colaborando em equipe e contribuindo ativamente para o crescimento dos projetos e das empresas das quais fizer parte. Quero me consolidar como desenvolvedor Full Stack, preparado para os desafios do mercado e comprometido com soluções que façam a diferença 🚀
 
 ---
 
