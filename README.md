@@ -12,6 +12,18 @@ Durante a graduação, busco aprofundar meus conhecimentos em front-end e back-e
 
 Meu objetivo é participar de projetos práticos, hackathons e iniciativas que gerem impacto real, colaborando em equipe e contribuindo ativamente para o crescimento dos projetos e das empresas das quais fizer parte. Quero me consolidar como desenvolvedor Full Stack, preparado para os desafios do mercado e comprometido com soluções que façam a diferença 🚀
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/caio-ferreira-32b330205/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/caiolira_fl16/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:caiozao1212@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 ## 🛠️ Tech Stack & Tools  
@@ -52,16 +64,3 @@ Meu objetivo é participar de projetos práticos, hackathons e iniciativas que g
 
 ---
 
-## 🌐 Connect with Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/caio-ferreira-32b330205/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/caiolira_fl16/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:caiozao1212@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
